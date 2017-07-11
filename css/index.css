@@ -6,10 +6,13 @@ body,ul,li,i{
 }
 
 /*导航样式*/
+#header{
+    border-bottom: 1px solid #e5e5e5; 
+}
 #header #sticky-wrapper{
     width: 1200px;
     height: 70px;
-    background: yellowgreen;
+    /*background: yellowgreen;*/
     margin: 0 auto;
     line-height: 70px;
 }
@@ -54,11 +57,11 @@ body,ul,li,i{
 /*横幅轮播*/
 #banner{
     padding: 0;
+    height: 420px;
     position: relative;
 }
-#banner #item-wrapper{
-    width: 100%;
-    height: 420px;
+#banner .inner-banner{
+    width: 1360px;
     margin: 0 auto;
 }
 #banner #banner-nav #list{
@@ -87,7 +90,7 @@ body,ul,li,i{
     width: 100%;
     height: 566px;
     /*margin: 0px auto;*/
-    background: yellow;
+    /*background: yellow;*/
     line-height: 1;
 }
 .fff{
@@ -187,7 +190,7 @@ body,ul,li,i{
 }
 .box2{
     /*background: #fbf8f8;*/
-    background: yellowgreen;
+    /*background: yellowgreen;*/
 }
 
 /*保障*/
