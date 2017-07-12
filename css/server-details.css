@@ -1,16 +1,35 @@
+*{
+    margin: 0;
+    padding: 0;
+    line-height: 1;
+}
 body{
     background: #f8f8f8;
     color: #333;
 }
+.logo{
+    height: 70px;
+    line-height: 70px;
+}
+.logo a img{
+    vertical-align: middle;
+}
+.nav-list li{
+    height: 70px;
+    line-height: 70px;
+}
 /*标题*/
-.h2{
-    line-height: 85px;
+.n-left{
     width: 1200px;
     margin: 0 auto;
-    font-size: 18px;
+}
+.h_left{
+    height: 85px;
+    line-height: 85px;
+    font-size: 16px;
     font-weight: 600;
 }
-.h2 .bright{
+.n-left .bright{
     margin: 0 10px;
 }
 .centerleft{
@@ -71,4 +90,102 @@ body{
     color: #fb474f;
     margin-left: 10px;
     font-style: normal;
+}
+#spf{
+    margin: 20px 60px 0 0;
+    float: right;
+    text-align: center;
+}
+#spf span{
+    display: block;
+    font-size: 16px;
+    line-height: 30px;
+    font-weight: 700;
+}
+#spf .last{
+    color: #fb474f;
+}
+.cdown {
+    clear: both;
+    background: #fff;
+    padding: 30px 20px;
+    border: 1px solid #e5e5e5;
+    margin-top: 10px;
+    margin-bottom: 50px;
+}
+.cdown b {
+    border-bottom: 3px solid #fb474f;
+    padding: 5px;
+    margin-top: 10px;
+    width: 66px;
+    display: block;
+    font-weight: 700;
+}
+.cdown p {
+    line-height: 24px;
+    margin: 15px 0 5px;
+    font-size: 14px;
+}
+.centerright {
+    width: 230px;
+    float: right;
+}
+.rightct {
+    width: 230px;
+    border: 1px solid #e5e5e5;
+    background: #fff;
+    text-align: center;
+}
+.rightct h3 {
+    font-size: 20px;
+    padding-left: 10px;
+    border-bottom: 1px solid #e5e5e5;
+    height: 60px;
+    line-height: 60px;
+    margin: 0;
+    text-align: left;
+    font-weight: 600;
+}
+.rightct p {
+    text-align: left;
+    padding: 0 10px;
+    line-height: 36px;
+    margin-bottom: 0;
+    font-size: 16px;
+}
+.rightct p b {
+    line-height: 36px;
+    float: right;
+    color: #fb474f;
+}
+.erweima {
+    width: 230px;
+    height: 290px;
+    background: url(../imgs/server/quickmark.jpg) no-repeat center;
+    margin-top: 10px;
+}
+.erweima img {
+    margin: 50px 0 0 50px;
+    vertical-align: middle;
+    width: 130px;
+}
+.foot{
+    width: 100%;
+    background: white;
+    clear: both;
+}
+.safeguard h2{
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+.safeguard h2 span{
+    font-size: 28px;
+    font-family: "微软雅黑";
+    font-weight: 800;
+}
+.merit{
+    height: 74px;
+}
+.merit .list li img{
+    margin-bottom: 10px;
 }
