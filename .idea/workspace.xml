@@ -2,13 +2,273 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="90501974-85f2-4fbb-aa87-69de0b9ee381" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/server-item.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server-item.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/components/footer/footer.vue" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/components/header/header.vue" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/components/server-list/server-list.vue" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/components/server/server.vue" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/router/index.js" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/imgs/banner1.1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/imgs/banner1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/imgs/banner2.1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/imgs/banner2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/imgs/banner3.1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/imgs/banner3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/imgs/card/1.1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/imgs/card/1.2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/imgs/card/1.3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/imgs/card/1.4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/imgs/card/1.5.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/imgs/card/1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/imgs/card/am-5.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/imgs/card/massage1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/imgs/card/massage2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/imgs/card/massage3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/imgs/card/massage4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/imgs/card/massage5.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/imgs/card/wx-1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/imgs/card/wx-2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/imgs/card/wx-3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/imgs/card/wx-4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/imgs/card/wx-5.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/imgs/circle.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/imgs/citypoint.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/imgs/fuwu_down2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/imgs/join-1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/imgs/join-2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/imgs/lock.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/imgs/logo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/imgs/qr.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/imgs/right.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/imgs/server/02079ba0-04f0-464d-a5b4-5806402337e9_thumb.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/imgs/server/07744489-e94e-41ef-a971-5d01a0db7b8b_thumb.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/imgs/server/1861ffae-b30c-4bd7-8f32-a7212ca7028b_thumb.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/imgs/server/1a613387-b206-4404-866a-b787ce234c56_thumb.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/imgs/server/21762b1d-08e9-4dd8-847a-baee2b3b94a3_thumb.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/imgs/server/31043989-f708-4be6-8990-e85fd903fd0f_thumb.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/imgs/server/314afa69-1924-465b-89a2-cb65302dea68_thumb.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/imgs/server/3b0faa5c-fb6a-44a9-8251-d79a4a700a56_thumb.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/imgs/server/3d2c1284-6a2e-482f-b497-786eac9ae6b4_thumb.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/imgs/server/450b3aac-c628-4e2f-bed0-331b47136f5b_thumb.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/imgs/server/6441ca7d-cd34-4474-870d-2ee9180232f6_thumb.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/imgs/server/750e39d7-ddaa-4b4b-95be-d83a2bf083a4_thumb.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/imgs/server/7529c8e8-d0d5-4bf5-9865-bbe291715079_thumb.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/imgs/server/7ae90a81-e216-42bd-baf2-4500d870cc78_thumb.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/imgs/server/94117c68-1048-473b-8370-dc40ab66c3e0_thumb.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/imgs/server/c3a2490e-04fc-43de-9a05-8a62dce47f57_thumb.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/imgs/server/citypoint.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/imgs/server/citypoint@2x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/imgs/server/d53343ce-5818-4ebf-9948-d13aa100ef72_thumb.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/imgs/server/daowayApp.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/imgs/server/e2b168c4-c462-48e8-a3a6-dabf56e409b6_thumb.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/imgs/server/e874effd-75d5-408a-84a9-73bfe135b666_thumb.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/imgs/server/fuwu_down2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/imgs/server/fuwushang2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/imgs/server/home1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/imgs/server/join.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/imgs/server/logo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/imgs/server/logo@2x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/imgs/server/pic_1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/imgs/server/position.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/imgs/server/quan.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/imgs/server/quickmark.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/imgs/server/quickmark2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/imgs/server/red_star.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/imgs/server/renzheng.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/imgs/server/user01.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/imgs/user.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/imgs/verify.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/到位APP_-_高品质上门服务直约平台，家政服务，上门按摩，上门维修，搬家，安心到家！/1255ea44-8e38-46c6-b336-3d29b2721844_thumb.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/到位APP_-_高品质上门服务直约平台，家政服务，上门按摩，上门维修，搬家，安心到家！/13949961-5a6d-4567-bf3f-5745256b85f6_thumb.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/到位APP_-_高品质上门服务直约平台，家政服务，上门按摩，上门维修，搬家，安心到家！/1dcdbeb4-6605-4d35-af87-1b76f7beb6df_thumb.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/到位APP_-_高品质上门服务直约平台，家政服务，上门按摩，上门维修，搬家，安心到家！/2c4b29c4-ff73-4a9c-9969-af410cbcd959_thumb.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/到位APP_-_高品质上门服务直约平台，家政服务，上门按摩，上门维修，搬家，安心到家！/2d791ed6-575f-468d-8323-eb74ac5a9bb5_thumb.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/到位APP_-_高品质上门服务直约平台，家政服务，上门按摩，上门维修，搬家，安心到家！/394c33e9-f833-4589-9198-ac0556705bc4_thumb.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/到位APP_-_高品质上门服务直约平台，家政服务，上门按摩，上门维修，搬家，安心到家！/3a810e7c-f7a0-4583-93ea-9c4b215bc28f_thumb.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/到位APP_-_高品质上门服务直约平台，家政服务，上门按摩，上门维修，搬家，安心到家！/3d8cd401-13f8-4e01-92dc-5dfc6dbd4d37_thumb.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/到位APP_-_高品质上门服务直约平台，家政服务，上门按摩，上门维修，搬家，安心到家！/4087f66d-6bb1-4278-8306-49b4a4be1514_thumb.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/到位APP_-_高品质上门服务直约平台，家政服务，上门按摩，上门维修，搬家，安心到家！/41491c6c-afd7-449e-9037-e2bf6d72d430_thumb.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/到位APP_-_高品质上门服务直约平台，家政服务，上门按摩，上门维修，搬家，安心到家！/4bf67c19-4d37-487c-9fc9-c39701a54951_thumb.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/到位APP_-_高品质上门服务直约平台，家政服务，上门按摩，上门维修，搬家，安心到家！/50e75ea2-9320-42c9-9b6e-c1ab23d56ecb_thumb.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/到位APP_-_高品质上门服务直约平台，家政服务，上门按摩，上门维修，搬家，安心到家！/58d98a3c-e5df-44ea-a098-cb461a89d829_thumb.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/到位APP_-_高品质上门服务直约平台，家政服务，上门按摩，上门维修，搬家，安心到家！/5a4a228b-c5a5-4a15-88d8-444965e47006_thumb.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/到位APP_-_高品质上门服务直约平台，家政服务，上门按摩，上门维修，搬家，安心到家！/5cf8680f-0264-4686-ba05-145700db6063_thumb.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/到位APP_-_高品质上门服务直约平台，家政服务，上门按摩，上门维修，搬家，安心到家！/5e1a0027-f54d-497e-beb0-e0047c5153cd_thumb.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/到位APP_-_高品质上门服务直约平台，家政服务，上门按摩，上门维修，搬家，安心到家！/5f8f3273-f3a2-40b8-915f-a0752d58c315_thumb.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/到位APP_-_高品质上门服务直约平台，家政服务，上门按摩，上门维修，搬家，安心到家！/60720281-1038-4e27-82b0-ce79bd8598fc_thumb.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/到位APP_-_高品质上门服务直约平台，家政服务，上门按摩，上门维修，搬家，安心到家！/612403f7-0b6f-4bbf-801b-e5ad6935660e_thumb.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/到位APP_-_高品质上门服务直约平台，家政服务，上门按摩，上门维修，搬家，安心到家！/78a2dc09-d1d4-4a4e-a56c-c62d94cbd909_thumb.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/到位APP_-_高品质上门服务直约平台，家政服务，上门按摩，上门维修，搬家，安心到家！/83a8ce32-cb8e-4256-9059-377b9a7391b3_thumb.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/到位APP_-_高品质上门服务直约平台，家政服务，上门按摩，上门维修，搬家，安心到家！/875f3a0d-65a0-480b-b81c-5d5f64d57164_thumb.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/到位APP_-_高品质上门服务直约平台，家政服务，上门按摩，上门维修，搬家，安心到家！/876cd069-5780-4f26-a7fa-f0f60ecc8afd_thumb.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/到位APP_-_高品质上门服务直约平台，家政服务，上门按摩，上门维修，搬家，安心到家！/895fc5e6-0156-450b-b5f3-b0fe89670a2b_thumb.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/到位APP_-_高品质上门服务直约平台，家政服务，上门按摩，上门维修，搬家，安心到家！/8d8cc9b6-c968-47ff-b294-73d292d1e69c_thumb.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/到位APP_-_高品质上门服务直约平台，家政服务，上门按摩，上门维修，搬家，安心到家！/91180dee-868e-410f-a7de-df0149ce4d11_thumb.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/到位APP_-_高品质上门服务直约平台，家政服务，上门按摩，上门维修，搬家，安心到家！/915d51ad-a07f-476a-aec4-fcfdb88a33f3_thumb.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/到位APP_-_高品质上门服务直约平台，家政服务，上门按摩，上门维修，搬家，安心到家！/96826989-a579-4093-b3a5-54949d25bc24_thumb.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/到位APP_-_高品质上门服务直约平台，家政服务，上门按摩，上门维修，搬家，安心到家！/a42e06d1-d4be-434d-baa2-81d81dde0ad5_thumb.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/到位APP_-_高品质上门服务直约平台，家政服务，上门按摩，上门维修，搬家，安心到家！/a71fcfd6-a2b3-43e2-82ea-c1ac4c6150f9_thumb.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/到位APP_-_高品质上门服务直约平台，家政服务，上门按摩，上门维修，搬家，安心到家！/a8d154f1-aac0-42d4-aff1-e2bc7f56bdc8_thumb.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/到位APP_-_高品质上门服务直约平台，家政服务，上门按摩，上门维修，搬家，安心到家！/a9a31e16-16bf-4128-894e-e6a5ceab3f66_thumb.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/到位APP_-_高品质上门服务直约平台，家政服务，上门按摩，上门维修，搬家，安心到家！/ae76cec7-343e-4556-9d8c-f4a614dd5d81_thumb.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/到位APP_-_高品质上门服务直约平台，家政服务，上门按摩，上门维修，搬家，安心到家！/banner1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/到位APP_-_高品质上门服务直约平台，家政服务，上门按摩，上门维修，搬家，安心到家！/banner2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/到位APP_-_高品质上门服务直约平台，家政服务，上门按摩，上门维修，搬家，安心到家！/banner3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/到位APP_-_高品质上门服务直约平台，家政服务，上门按摩，上门维修，搬家，安心到家！/bd3504fb-6c13-41f1-8fac-d963ab85db5e_thumb.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/到位APP_-_高品质上门服务直约平台，家政服务，上门按摩，上门维修，搬家，安心到家！/c0ca2384-09f6-44a7-9189-a4c0112ca82f_thumb.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/到位APP_-_高品质上门服务直约平台，家政服务，上门按摩，上门维修，搬家，安心到家！/c18f24bc-b6f7-4b1e-9ea8-f6bf85d995d9_thumb.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/到位APP_-_高品质上门服务直约平台，家政服务，上门按摩，上门维修，搬家，安心到家！/c358bd9f-2e52-4537-86b4-c356276a3515_thumb.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/到位APP_-_高品质上门服务直约平台，家政服务，上门按摩，上门维修，搬家，安心到家！/c47841a8-a1a3-43ab-8233-d75f4d719371_thumb.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/到位APP_-_高品质上门服务直约平台，家政服务，上门按摩，上门维修，搬家，安心到家！/c74ac864-a9f3-4db5-8807-c4628ef28341_thumb.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/到位APP_-_高品质上门服务直约平台，家政服务，上门按摩，上门维修，搬家，安心到家！/cce534a8-1360-487b-8e18-c404b9b71319_thumb.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/到位APP_-_高品质上门服务直约平台，家政服务，上门按摩，上门维修，搬家，安心到家！/cd8be51d-4b4e-4713-bb0b-73508dc37c06_thumb.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/到位APP_-_高品质上门服务直约平台，家政服务，上门按摩，上门维修，搬家，安心到家！/citypoint@2x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/到位APP_-_高品质上门服务直约平台，家政服务，上门按摩，上门维修，搬家，安心到家！/d09e9ebb-4e51-4687-b70d-3937f3c9d9bd_thumb.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/到位APP_-_高品质上门服务直约平台，家政服务，上门按摩，上门维修，搬家，安心到家！/d6ebc1f0-6364-408c-b3fa-5a899e4eba7a_thumb.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/到位APP_-_高品质上门服务直约平台，家政服务，上门按摩，上门维修，搬家，安心到家！/d90b3c02-2a4e-4b18-b82b-9cfc7d43947f_thumb.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/到位APP_-_高品质上门服务直约平台，家政服务，上门按摩，上门维修，搬家，安心到家！/dd85ffdb-cf7a-418d-8330-fb4343abd363_thumb.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/到位APP_-_高品质上门服务直约平台，家政服务，上门按摩，上门维修，搬家，安心到家！/e1aebb92-8548-45b6-a1fe-f5d428e1c064_thumb.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/到位APP_-_高品质上门服务直约平台，家政服务，上门按摩，上门维修，搬家，安心到家！/ee1cb10d-7933-4fae-bcca-5c87e7ed4e18_thumb.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/到位APP_-_高品质上门服务直约平台，家政服务，上门按摩，上门维修，搬家，安心到家！/f1ed7345-faae-49fe-8066-183390a79254_thumb.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/到位APP_-_高品质上门服务直约平台，家政服务，上门按摩，上门维修，搬家，安心到家！/fc7e170f-b98f-4c33-8a8e-5c7e647b38c2_thumb.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/到位APP_-_高品质上门服务直约平台，家政服务，上门按摩，上门维修，搬家，安心到家！/ff748963-fd8d-4137-ab85-7aa388496f65_thumb.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/到位APP_-_高品质上门服务直约平台，家政服务，上门按摩，上门维修，搬家，安心到家！/logo@2x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/到位APP_-_高品质上门服务直约平台，家政服务，上门按摩，上门维修，搬家，安心到家！/quan.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/新建文件夹/css/bootstrap-3.3.7-dist/css/bootstrap-theme.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/新建文件夹/css/bootstrap-3.3.7-dist/css/bootstrap-theme.css.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/新建文件夹/css/bootstrap-3.3.7-dist/css/bootstrap-theme.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/新建文件夹/css/bootstrap-3.3.7-dist/css/bootstrap-theme.min.css.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/新建文件夹/css/bootstrap-3.3.7-dist/css/bootstrap.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/新建文件夹/css/bootstrap-3.3.7-dist/css/bootstrap.css.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/新建文件夹/css/bootstrap-3.3.7-dist/css/bootstrap.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/新建文件夹/css/bootstrap-3.3.7-dist/css/bootstrap.min.css.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/新建文件夹/css/bootstrap-3.3.7-dist/fonts/glyphicons-halflings-regular.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/新建文件夹/css/bootstrap-3.3.7-dist/fonts/glyphicons-halflings-regular.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/新建文件夹/css/bootstrap-3.3.7-dist/fonts/glyphicons-halflings-regular.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/新建文件夹/css/bootstrap-3.3.7-dist/fonts/glyphicons-halflings-regular.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/新建文件夹/css/bootstrap-3.3.7-dist/fonts/glyphicons-halflings-regular.woff2" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/新建文件夹/css/bootstrap-3.3.7-dist/js/bootstrap.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/新建文件夹/css/bootstrap-3.3.7-dist/js/bootstrap.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/新建文件夹/css/bootstrap-3.3.7-dist/js/npm.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/新建文件夹/css/bootstrap-theme.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/新建文件夹/css/category.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/新建文件夹/css/common.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/新建文件夹/css/font-awesome.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/新建文件夹/css/index.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/新建文件夹/css/login.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/新建文件夹/css/reset.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/新建文件夹/css/service.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/新建文件夹/img/1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/新建文件夹/img/1255ea44-8e38-46c6-b336-3d29b2721844_thumb.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/新建文件夹/img/13949961-5a6d-4567-bf3f-5745256b85f6_thumb.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/新建文件夹/img/1dcdbeb4-6605-4d35-af87-1b76f7beb6df_thumb.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/新建文件夹/img/2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/新建文件夹/img/2c4b29c4-ff73-4a9c-9969-af410cbcd959_thumb.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/新建文件夹/img/2d791ed6-575f-468d-8323-eb74ac5a9bb5_thumb.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/新建文件夹/img/3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/新建文件夹/img/394c33e9-f833-4589-9198-ac0556705bc4_thumb.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/新建文件夹/img/3a810e7c-f7a0-4583-93ea-9c4b215bc28f_thumb.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/新建文件夹/img/3d8cd401-13f8-4e01-92dc-5dfc6dbd4d37_thumb.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/新建文件夹/img/4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/新建文件夹/img/4087f66d-6bb1-4278-8306-49b4a4be1514_thumb.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/新建文件夹/img/41491c6c-afd7-449e-9037-e2bf6d72d430_thumb.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/新建文件夹/img/4bf67c19-4d37-487c-9fc9-c39701a54951_thumb.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/新建文件夹/img/5.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/新建文件夹/img/50e75ea2-9320-42c9-9b6e-c1ab23d56ecb_thumb.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/新建文件夹/img/58d98a3c-e5df-44ea-a098-cb461a89d829_thumb.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/新建文件夹/img/5a4a228b-c5a5-4a15-88d8-444965e47006_thumb.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/新建文件夹/img/5cf8680f-0264-4686-ba05-145700db6063_thumb.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/新建文件夹/img/5e1a0027-f54d-497e-beb0-e0047c5153cd_thumb.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/新建文件夹/img/5f8f3273-f3a2-40b8-915f-a0752d58c315_thumb.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/新建文件夹/img/60720281-1038-4e27-82b0-ce79bd8598fc_thumb.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/新建文件夹/img/612403f7-0b6f-4bbf-801b-e5ad6935660e_thumb.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/新建文件夹/img/78a2dc09-d1d4-4a4e-a56c-c62d94cbd909_thumb.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/新建文件夹/img/83a8ce32-cb8e-4256-9059-377b9a7391b3_thumb.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/新建文件夹/img/875f3a0d-65a0-480b-b81c-5d5f64d57164_thumb.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/新建文件夹/img/876cd069-5780-4f26-a7fa-f0f60ecc8afd_thumb.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/新建文件夹/img/895fc5e6-0156-450b-b5f3-b0fe89670a2b_thumb.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/新建文件夹/img/8d8cc9b6-c968-47ff-b294-73d292d1e69c_thumb.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/新建文件夹/img/91180dee-868e-410f-a7de-df0149ce4d11_thumb.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/新建文件夹/img/915d51ad-a07f-476a-aec4-fcfdb88a33f3_thumb.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/新建文件夹/img/96826989-a579-4093-b3a5-54949d25bc24_thumb.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/新建文件夹/img/a42e06d1-d4be-434d-baa2-81d81dde0ad5_thumb.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/新建文件夹/img/a71fcfd6-a2b3-43e2-82ea-c1ac4c6150f9_thumb.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/新建文件夹/img/a8d154f1-aac0-42d4-aff1-e2bc7f56bdc8_thumb.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/新建文件夹/img/a9a31e16-16bf-4128-894e-e6a5ceab3f66_thumb.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/新建文件夹/img/ae76cec7-343e-4556-9d8c-f4a614dd5d81_thumb.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/新建文件夹/img/am-1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/新建文件夹/img/am-2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/新建文件夹/img/am-3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/新建文件夹/img/am-4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/新建文件夹/img/am-5.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/新建文件夹/img/am-6.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/新建文件夹/img/banner1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/新建文件夹/img/banner2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/新建文件夹/img/banner3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/新建文件夹/img/bd3504fb-6c13-41f1-8fac-d963ab85db5e_thumb.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/新建文件夹/img/c0ca2384-09f6-44a7-9189-a4c0112ca82f_thumb.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/新建文件夹/img/c18f24bc-b6f7-4b1e-9ea8-f6bf85d995d9_thumb.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/新建文件夹/img/c358bd9f-2e52-4537-86b4-c356276a3515_thumb.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/新建文件夹/img/c47841a8-a1a3-43ab-8233-d75f4d719371_thumb.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/新建文件夹/img/c74ac864-a9f3-4db5-8807-c4628ef28341_thumb.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/新建文件夹/img/cce534a8-1360-487b-8e18-c404b9b71319_thumb.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/新建文件夹/img/cd8be51d-4b4e-4713-bb0b-73508dc37c06_thumb.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/新建文件夹/img/citypoint@2x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/新建文件夹/img/d09e9ebb-4e51-4687-b70d-3937f3c9d9bd_thumb.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/新建文件夹/img/d6ebc1f0-6364-408c-b3fa-5a899e4eba7a_thumb.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/新建文件夹/img/d90b3c02-2a4e-4b18-b82b-9cfc7d43947f_thumb.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/新建文件夹/img/dd85ffdb-cf7a-418d-8330-fb4343abd363_thumb.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/新建文件夹/img/e1aebb92-8548-45b6-a1fe-f5d428e1c064_thumb.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/新建文件夹/img/ee1cb10d-7933-4fae-bcca-5c87e7ed4e18_thumb.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/新建文件夹/img/f1ed7345-faae-49fe-8066-183390a79254_thumb.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/新建文件夹/img/fc7e170f-b98f-4c33-8a8e-5c7e647b38c2_thumb.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/新建文件夹/img/ff748963-fd8d-4137-ab85-7aa388496f65_thumb.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/新建文件夹/img/lock.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/新建文件夹/img/logo@2x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/新建文件夹/img/quan.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/新建文件夹/img/right.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/新建文件夹/img/service-list/02079ba0-04f0-464d-a5b4-5806402337e9_thumb.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/新建文件夹/img/service-list/07744489-e94e-41ef-a971-5d01a0db7b8b_thumb.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/新建文件夹/img/service-list/1861ffae-b30c-4bd7-8f32-a7212ca7028b_thumb.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/新建文件夹/img/service-list/1a613387-b206-4404-866a-b787ce234c56_thumb.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/新建文件夹/img/service-list/21762b1d-08e9-4dd8-847a-baee2b3b94a3_thumb.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/新建文件夹/img/service-list/31043989-f708-4be6-8990-e85fd903fd0f_thumb.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/新建文件夹/img/service-list/314afa69-1924-465b-89a2-cb65302dea68_thumb.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/新建文件夹/img/service-list/3b0faa5c-fb6a-44a9-8251-d79a4a700a56_thumb.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/新建文件夹/img/service-list/3d2c1284-6a2e-482f-b497-786eac9ae6b4_thumb.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/新建文件夹/img/service-list/450b3aac-c628-4e2f-bed0-331b47136f5b_thumb.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/新建文件夹/img/service-list/5cf8680f-0264-4686-ba05-145700db6063_thumb.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/新建文件夹/img/service-list/6441ca7d-cd34-4474-870d-2ee9180232f6_thumb.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/新建文件夹/img/service-list/750e39d7-ddaa-4b4b-95be-d83a2bf083a4_thumb.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/新建文件夹/img/service-list/7529c8e8-d0d5-4bf5-9865-bbe291715079_thumb.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/新建文件夹/img/service-list/7ae90a81-e216-42bd-baf2-4500d870cc78_thumb.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/新建文件夹/img/service-list/94117c68-1048-473b-8370-dc40ab66c3e0_thumb.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/新建文件夹/img/service-list/c3a2490e-04fc-43de-9a05-8a62dce47f57_thumb.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/新建文件夹/img/service-list/citypoint.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/新建文件夹/img/service-list/citypoint@2x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/新建文件夹/img/service-list/d53343ce-5818-4ebf-9948-d13aa100ef72_thumb.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/新建文件夹/img/service-list/daowayApp.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/新建文件夹/img/service-list/e2b168c4-c462-48e8-a3a6-dabf56e409b6_thumb.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/新建文件夹/img/service-list/e874effd-75d5-408a-84a9-73bfe135b666_thumb.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/新建文件夹/img/service-list/fuwu_down2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/新建文件夹/img/service-list/home1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/新建文件夹/img/service-list/logo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/新建文件夹/img/service-list/logo@2x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/新建文件夹/img/service-list/quan.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/新建文件夹/img/service-list/tuijianfuwushang_03.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/新建文件夹/img/service-list/tuijianfuwushang_06.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/新建文件夹/img/user.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/新建文件夹/img/wx-1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/新建文件夹/img/wx-2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/新建文件夹/img/wx-3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/新建文件夹/img/wx-4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/新建文件夹/img/wx-5.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/新建文件夹/js/jquery.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/新建文件夹/login.html" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/header.css" afterPath="$PROJECT_DIR$/css/header.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/index.css" afterPath="$PROJECT_DIR$/css/index.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/server-details.css" afterPath="$PROJECT_DIR$/css/server-details.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/server-details.html" afterPath="$PROJECT_DIR$/server-details.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index1.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -22,42 +282,146 @@
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.5817669">
-      <split-first>
-        <leaf>
-          <file leaf-file-name="register.html" pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/register.html">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="162">
-                  <caret line="12" column="31" lean-forward="true" selection-start-line="12" selection-start-column="31" selection-end-line="12" selection-end-column="31" />
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-        </leaf>
-      </split-first>
-      <split-second>
-        <leaf>
-          <file leaf-file-name="register.css" pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/css/register.css">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="81">
-                  <caret line="6" column="22" lean-forward="true" selection-start-line="6" selection-start-column="22" selection-end-line="6" selection-end-column="22" />
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-        </leaf>
-      </split-second>
-    </splitter>
+    <leaf>
+      <file leaf-file-name="server-details.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/server-details.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="253">
+              <caret line="102" column="0" lean-forward="false" selection-start-line="102" selection-start-column="0" selection-end-line="128" selection-end-column="6" />
+              <folding>
+                <element signature="n#header#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#span#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#div#1;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#div#2;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#div#3;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="main.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="54">
+              <caret line="2" column="28" lean-forward="false" selection-start-line="2" selection-start-column="28" selection-end-line="2" selection-end-column="28" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/router/index.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+                <element signature="e#40#61#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="header.vue" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/components/header/header.vue">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="297">
+              <caret line="17" column="43" lean-forward="true" selection-start-line="17" selection-start-column="43" selection-end-line="17" selection-end-column="43" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="header.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/css/header.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="162">
+              <caret line="6" column="13" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="60" selection-end-column="1" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index1.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/index1.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="108">
+              <caret line="38" column="13" lean-forward="false" selection-start-line="15" selection-start-column="4" selection-end-line="38" selection-end-column="13" />
+              <folding>
+                <element signature="n#head#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#header#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#div#0;n#banner#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#div#3;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#div#4;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#div#5;n#body#0;n#html#0;n#!!top" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="footer.vue" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/components/footer/footer.vue">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="519">
+              <caret line="52" column="21" lean-forward="false" selection-start-line="52" selection-start-column="21" selection-end-line="52" selection-end-column="21" />
+              <folding>
+                <element signature="n#div#0;n#div#0;n#template#0;n#!!top" expanded="false" />
+                <element signature="n#div#2;n#div#0;n#template#0;n#!!top" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="footer.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/css/footer.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="276">
+              <caret line="110" column="1" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="110" selection-end-column="1" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="App.vue" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/App.vue">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="162">
+              <caret line="6" column="11" lean-forward="false" selection-start-line="6" selection-start-column="11" selection-end-line="6" selection-end-column="11" />
+              <folding>
+                <element signature="e#120#171#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="CSS File" />
         <option value="HTML File" />
+        <option value="JavaScript File" />
+        <option value="Unnamed" />
       </list>
     </option>
   </component>
@@ -75,7 +439,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/server.html" />
         <option value="$PROJECT_DIR$/css/server.css" />
         <option value="$PROJECT_DIR$/login.html" />
@@ -85,24 +448,44 @@
         <option value="$PROJECT_DIR$/css/header.css" />
         <option value="$PROJECT_DIR$/css/server-details.css" />
         <option value="$PROJECT_DIR$/server-details.html" />
-        <option value="$PROJECT_DIR$/css/index.css" />
         <option value="$PROJECT_DIR$/server-item.html" />
         <option value="$PROJECT_DIR$/css/server-item.css" />
         <option value="$PROJECT_DIR$/css/register.css" />
         <option value="$PROJECT_DIR$/register.html" />
+        <option value="$PROJECT_DIR$/css/index.css" />
+        <option value="$PROJECT_DIR$/package.json" />
+        <option value="$PROJECT_DIR$/src/components/server/server.vue" />
+        <option value="$PROJECT_DIR$/src/components/server-list/server-list.vue" />
+        <option value="$PROJECT_DIR$/src/router/router.js" />
+        <option value="$PROJECT_DIR$/.eslintignore" />
+        <option value="$PROJECT_DIR$/src/main.js" />
+        <option value="$PROJECT_DIR$/src/router/index.js" />
+        <option value="$PROJECT_DIR$/src/App.vue" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/src/components/header/header.vue" />
+        <option value="$PROJECT_DIR$/src/components/footer/footer.vue" />
       </list>
     </option>
   </component>
   <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
   <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <annotation-enable>false</annotation-enable>
+    <other-services-enabled>true</other-services-enabled>
+  </component>
   <component name="JsGulpfileManager">
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/node_modules" />
+  </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-3" />
-    <option name="y" value="-15" />
-    <option name="width" value="1370" />
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1382" />
     <option name="height" value="744" />
   </component>
   <component name="ProjectLevelVcsManager">
@@ -147,6 +530,100 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="daoway" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="daoway" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="router" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="daoway" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="daoway" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="components" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="daoway" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="daoway" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="components" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="header" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="daoway" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="daoway" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="components" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="footer" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="daoway" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="daoway" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="css" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -157,13 +634,20 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../项目实战/myapp" />
     <property name="HbShouldOpenHtmlAsHb" value="" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="ignore_missing_gitignore" value="true" />
+    <property name="nodejs_interpreter_path" value="D:/Program Files/nodejs/node" />
+    <property name="settings.editor.selected.configurable" value="Settings.JavaScript" />
+    <property name="JavaScriptPreferStrict" value="false" />
+    <property name="JavaScriptWeakerCompletionTypeGuess" value="true" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\vue\vue\daoway\src" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="F:\vue\vue\daoway" />
       <recent name="F:\vue\vue\daoway\css" />
@@ -262,24 +746,23 @@
       <workItem from="1499647164004" duration="43602000" />
       <workItem from="1499732963400" duration="5822000" />
       <workItem from="1499739618007" duration="39115000" />
-      <workItem from="1499819315430" duration="29971000" />
+      <workItem from="1499819315430" duration="41860000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="118510000" />
+    <option name="totallyTimeSpent" value="130399000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-3" y="-15" width="1370" height="744" extended-state="0" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2012012" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16741072" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3295082" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.09016393" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.36557376" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -309,16 +792,9 @@
           <folding>
             <element signature="n#header#0;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="e#1197#1201#1" expanded="true" />
-            <element signature="e#1277#1281#1" expanded="true" />
             <element signature="n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#span#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#div#1;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#p#3;n#div#1;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#p#0;n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#div#2;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
@@ -335,7 +811,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
+    <entry file="file://$PROJECT_DIR$/index1.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="108">
           <caret line="38" column="13" lean-forward="false" selection-start-line="15" selection-start-column="3" selection-end-line="38" selection-end-column="13" />
@@ -388,7 +864,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
+    <entry file="file://$PROJECT_DIR$/index1.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="108">
           <caret line="38" column="13" lean-forward="false" selection-start-line="15" selection-start-column="3" selection-end-line="38" selection-end-column="13" />
@@ -465,95 +941,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/server-list.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="278">
-          <caret line="233" column="6" lean-forward="true" selection-start-line="207" selection-start-column="0" selection-end-line="233" selection-end-column="6" />
-          <folding>
-            <element signature="n#header#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#ul#0;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#h3#0;n#div#0;n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#div#0;n#div#0;n#div#0;n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#div#1;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#div#0;n#div#0;n#div#1;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#div#1;n#div#0;n#div#1;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#div#2;n#div#0;n#div#1;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#div#3;n#div#0;n#div#1;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#div#2;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#div#3;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/css/server-list.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
           <caret line="284" column="0" lean-forward="false" selection-start-line="284" selection-start-column="0" selection-end-line="288" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="38" column="13" lean-forward="true" selection-start-line="38" selection-start-column="13" selection-end-line="38" selection-end-column="13" />
-          <folding>
-            <element signature="n#head#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#header#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#banner#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#div#0;n#banner#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#div#3;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#div#4;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#div#5;n#body#0;n#html#0;n#!!top" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/login.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="19" column="0" lean-forward="true" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/server.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="297">
-          <caret line="115" column="0" lean-forward="true" selection-start-line="115" selection-start-column="0" selection-end-line="115" selection-end-column="0" />
-          <folding>
-            <element signature="n#header#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#ul#0;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/header.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="6" column="13" lean-forward="true" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/index.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="27">
-          <caret line="17" column="1" lean-forward="true" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
           <folding />
         </state>
       </provider>
@@ -574,10 +965,49 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/css/register.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="81">
+          <caret line="6" column="22" lean-forward="false" selection-start-line="6" selection-start-column="22" selection-end-line="6" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/index.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="96" column="14" lean-forward="false" selection-start-line="96" selection-start-column="14" selection-end-line="96" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server-list.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="143">
+          <caret line="207" column="18" lean-forward="true" selection-start-line="207" selection-start-column="18" selection-end-line="207" selection-end-column="18" />
+          <folding>
+            <element signature="n#header#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#ul#0;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#h3#0;n#div#0;n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#0;n#div#0;n#div#0;n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#1;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#0;n#div#0;n#div#1;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#1;n#div#0;n#div#1;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#2;n#div#0;n#div#1;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#3;n#div#0;n#div#1;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#2;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#3;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/server-item.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="6" column="47" lean-forward="false" selection-start-line="6" selection-start-column="47" selection-end-line="6" selection-end-column="47" />
+        <state relative-caret-position="378">
+          <caret line="225" column="10" lean-forward="true" selection-start-line="225" selection-start-column="10" selection-end-line="225" selection-end-column="10" />
           <folding>
             <element signature="n#header#0;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
@@ -586,32 +1016,13 @@
             <element signature="n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#h3#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#i#0;n#span#0;n#h3#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#div#0;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#b#0;n#i#2;n#span#0;n#div#0;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#b#1;n#i#2;n#span#0;n#div#0;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#div#1;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#b#0;n#i#2;n#span#0;n#div#1;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#b#1;n#i#2;n#span#0;n#div#1;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#div#2;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#b#0;n#i#2;n#span#0;n#div#2;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#b#1;n#i#2;n#span#0;n#div#2;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#div#3;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#b#0;n#i#2;n#span#0;n#div#3;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#b#1;n#i#2;n#span#0;n#div#3;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#3;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#li#1;n#ul#0;n#div#0;n#div#4;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#span#0;n#li#1;n#ul#0;n#div#0;n#div#4;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#span#0;n#span#0;n#li#1;n#ul#0;n#div#0;n#div#4;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#em#0;n#li#1;n#ul#0;n#div#0;n#div#4;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#span#0;n#li#1;n#ul#0;n#div#1;n#div#4;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#span#0;n#span#0;n#li#1;n#ul#0;n#div#1;n#div#4;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="e#8326#8330#0" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#5;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="e#9037#9041#0" expanded="true" />
             <element signature="n#div#1;n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#div#0;n#div#1;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#div#3;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#div#2;n#div#3;n#body#0;n#html#0;n#!!top" expanded="false" />
@@ -620,23 +1031,154 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="4" column="37" lean-forward="true" selection-start-line="4" selection-start-column="37" selection-end-line="4" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/login.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="19" column="0" lean-forward="false" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/register.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="226">
+          <caret line="31" column="27" lean-forward="true" selection-start-line="31" selection-start-column="27" selection-end-line="31" selection-end-column="27" />
+          <folding>
+            <element signature="n#header#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#ul#0;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/server/server.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="27">
+          <caret line="1" column="17" lean-forward="false" selection-start-line="1" selection-start-column="17" selection-end-line="1" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/server-list/server-list.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="27">
+          <caret line="1" column="28" lean-forward="true" selection-start-line="1" selection-start-column="28" selection-end-line="1" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.eslintignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="81">
+          <caret line="3" column="4" lean-forward="true" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="2" column="28" lean-forward="false" selection-start-line="2" selection-start-column="28" selection-end-line="2" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/router/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+            <element signature="e#40#61#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/App.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="6" column="11" lean-forward="false" selection-start-line="6" selection-start-column="11" selection-end-line="6" selection-end-column="11" />
+          <folding>
+            <element signature="e#120#171#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index1.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="38" column="13" lean-forward="false" selection-start-line="15" selection-start-column="4" selection-end-line="38" selection-end-column="13" />
+          <folding>
+            <element signature="n#head#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#header#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#0;n#banner#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#3;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#4;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#5;n#body#0;n#html#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/header.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="6" column="13" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="60" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/header/header.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="17" column="43" lean-forward="true" selection-start-line="17" selection-start-column="43" selection-end-line="17" selection-end-column="43" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/server-details.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="282">
+        <state relative-caret-position="253">
           <caret line="102" column="0" lean-forward="false" selection-start-line="102" selection-start-column="0" selection-end-line="128" selection-end-column="6" />
           <folding>
             <element signature="n#header#0;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="e#1197#1201#1" expanded="true" />
-            <element signature="e#1277#1281#1" expanded="true" />
             <element signature="n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#span#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#div#1;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#p#3;n#div#1;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#p#0;n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#div#2;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
@@ -647,25 +1189,20 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/css/footer.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="27">
-          <caret line="1" column="11" lean-forward="false" selection-start-line="1" selection-start-column="11" selection-end-line="1" selection-end-column="11" />
+        <state relative-caret-position="276">
+          <caret line="110" column="1" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="110" selection-end-column="1" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/register.css">
+    <entry file="file://$PROJECT_DIR$/src/components/footer/footer.vue">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="81">
-          <caret line="6" column="22" lean-forward="true" selection-start-line="6" selection-start-column="22" selection-end-line="6" selection-end-column="22" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/register.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="12" column="31" lean-forward="true" selection-start-line="12" selection-start-column="31" selection-end-line="12" selection-end-column="31" />
-          <folding />
+        <state relative-caret-position="519">
+          <caret line="52" column="21" lean-forward="false" selection-start-line="52" selection-start-column="21" selection-end-line="52" selection-end-column="21" />
+          <folding>
+            <element signature="n#div#0;n#div#0;n#template#0;n#!!top" expanded="false" />
+            <element signature="n#div#2;n#div#0;n#template#0;n#!!top" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
