@@ -18,7 +18,7 @@
         <li><a href="/service">服务商</a></li>
         <li><a href="/information">商家入驻</a></li>
         <li><a href="/aboutus">关于我们</a></li>
-        <li><a  class="enter" href="#">商家登录</a></li>
+        <li><a class="enter" href="#">商家登录</a></li>
 
       </ul>
     </div>
@@ -74,6 +74,7 @@
     font-size: 16px;
     vertical-align: middle;
   }
+
   #showCity,#city{
     font-weight: bold;
   }
@@ -91,6 +92,6 @@
     text-align: center;
     background: #e94840;
     border-radius: 5px;
-    color: #fff;
+    color: #fff!important;
   }
 </style>
